@@ -11,4 +11,6 @@
 | 2 | tbd | <a href="#" target="_blank">Repo</a>  |
 | 3 | tbd | <a href="#" target="_blank">Repo</a>  |
 | 4 | tbd | <a href="#" target="_blank">Repo</a>  |
+| 5 | Memory game | <a href="#" target="_blank">Repo</a>  |
+| 6 | Routing, multi page site | <a href="#" target="_blank">Repo</a>  |
 </div>
