@@ -7,10 +7,12 @@
 
 | Project name | Description | Repository |
 | :------------: | :-------: | :--------: |
-| 1 | tbd | <a href="#" target="_blank">Repo</a>  |
-| 2 | tbd | <a href="#" target="_blank">Repo</a>  |
-| 3 | tbd | <a href="#" target="_blank">Repo</a>  |
-| 4 | tbd | <a href="#" target="_blank">Repo</a>  |
+| 1 | Basics 1 | <a href="#" target="_blank">Repo</a>  |
+| 2 | Basics 2 | <a href="#" target="_blank">Repo</a>  |
+| 3 | Basics 3 | <a href="#" target="_blank">Repo</a>  |
+| 4 | Basics 4 | <a href="#" target="_blank">Repo</a>  |
 | 5 | Memory game | <a href="#" target="_blank">Repo</a>  |
 | 6 | Routing, multi page site | <a href="#" target="_blank">Repo</a>  |
+| 7 | Recipe directory | <a href="#" target="_blank">Repo</a>  |
+| 8 | tbd | <a href="#" target="_blank">Repo</a>  |
 </div>
